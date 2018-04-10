@@ -15,6 +15,11 @@ func main(){
 	fmt.Println(a)
 }
 
+func testhuiwen2(s string){
+	// var temp []rune
+	// var a := []rune()
+}
+
 func testhuiwen(s string)bool{
 
 	// var str = s
