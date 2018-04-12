@@ -43,7 +43,7 @@ func getNum() int {
 }
 func testIf4() {
 	if num := getNum(); num > 6 {
-		fmt.Println("》6")
+		fmt.Println(">6")
 	} else {
 		fmt.Println("<6")
 	}
